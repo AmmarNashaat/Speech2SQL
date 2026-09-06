@@ -11,7 +11,7 @@ An end-to-end, cascaded AI system that translates spoken medical inquiries into 
 
 ---
 
-## 🌟 Features & Innovations
+## Features & Innovations
 
 * **Cascaded Speech-to-SQL Pipeline**: Converts spoken audio into text via local ASR and generates valid PostgreSQL code using an LLM.
 
@@ -37,7 +37,7 @@ An end-to-end, cascaded AI system that translates spoken medical inquiries into 
 
 ---
 
-## 🏗️ Architecture & Pipeline Flow
+## Architecture & Pipeline Flow
 
 The system employs a modular, cascaded pipeline architecture designed for high interpretability and straightforward debugging:
 
@@ -86,7 +86,7 @@ The system employs a modular, cascaded pipeline architecture designed for high i
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Component | Technology / Library | Purpose |
 | :--- | :--- | :--- |
@@ -100,7 +100,7 @@ The system employs a modular, cascaded pipeline architecture designed for high i
 
 ---
 
-## 📊 Database Schema Summary
+## Database Schema Summary
 
 The normalized PostgreSQL database contains seven core relational tables designed to support complex queries involving multi-table joins, aggregations, groupings, and temporal trends[cite: 1]:
 
@@ -114,7 +114,7 @@ The normalized PostgreSQL database contains seven core relational tables designe
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### 1. Prerequisites
 * **Python**: `v3.11` or higher[cite: 1]
@@ -174,7 +174,7 @@ streamlit run app.py
 
 ---
 
-## 👥 Credits & Acknowledgments
+## Credits & Acknowledgments
 
 * **Authors**: Speech2SQL Development Team
 

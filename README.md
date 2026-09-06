@@ -1,5 +1,10 @@
 # Speech2SQL: AI-Powered Speech-to-SQL for Interactive Medical Database Exploration
-
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Database: PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Model: LLaMA 3.1 8B](https://img.shields.io/badge/LLM-LLaMA_3.1_8B_Instruct-76B900?logo=nvidia&logoColor=white)](https://build.nvidia.com/)
+[![ASR: Faster--Whisper](https://img.shields.io/badge/ASR-Faster--Whisper-black)](https://github.com/SYSTRAN/faster-whisper)
+[![Frontend: Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 An end-to-end, cascaded AI system that translates spoken medical inquiries into executable PostgreSQL queries, dynamic Plotly visualizations, and actionable AI business intelligence. Built as a final project for the Data Management Course (2026) at the University of Naples Federico II (UNINA).

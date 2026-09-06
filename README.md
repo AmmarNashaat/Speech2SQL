@@ -176,7 +176,7 @@ streamlit run app.py
 
 ## Credits & Acknowledgments
 
-* **Authors**: Speech2SQL Development Team
+* **Author**: Ammar Gharaf
 
 
 * **Academic Supervision**: Prof. Vincenzo Moscato & Dott. Francesco Di Serio
